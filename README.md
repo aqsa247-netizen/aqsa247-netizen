@@ -1,103 +1,77 @@
 # Hi, I'm Aqsa 👋
 
-### AI Engineer | AI Agents · RAG · Automation · LLM Applications
+### AI Engineer | AI Agents · Voice AI · RAG · Automation
 
-I build practical AI systems that connect large language models with real business workflows, data, APIs and applications.
+I build production-ready AI systems that connect large language models with real business workflows, data, APIs and applications.
 
-My work focuses on AI agents, RAG applications, intelligent automation, LLM integrations and AI-powered SaaS products.
+My focus includes AI agents, Voice AI, RAG applications, LLM integrations, intelligent automation and AI-powered SaaS products.
 
----
+## 🤖 AI Engineering
 
-## 🤖 What I Build
+`AI Agents` `Generative AI` `LLMs` `RAG` `AI Automation`  
+`Prompt Engineering` `Tool Calling` `Embeddings` `Vector Search`  
+`Conversational AI` `AI Model Integration`
 
-- AI Agents and LLM-powered applications
-- Retrieval-Augmented Generation (RAG) systems
+## 🧠 Models & AI Platforms
+
+`OpenAI` `Claude` `Gemini` `Anthropic API` `OpenAI API`
+
+## 🎙️ Voice AI
+
+`Voice AI Agents` `Vapi` `Retell AI` `Twilio`  
+`Inbound AI Calls` `Outbound AI Calls` `Conversational Voice Systems`
+
+## 🔎 RAG & Knowledge Systems
+
+`RAG Pipelines` `OpenAI Embeddings` `Document Processing`  
+`Knowledge Bases` `Semantic Search` `Vector Databases`  
+`Pinecone` `Supabase` `Weaviate` `Chroma`
+
+## ⚡ Automation & Integrations
+
+`n8n` `Make` `Workflow Automation` `REST APIs`  
+`Webhooks` `API Integration` `Meta WhatsApp API` `Stripe`
+
+## 💻 Development
+
+`Python` `Node.js` `TypeScript` `JavaScript`  
+`Next.js` `React` `REST APIs` `Git` `GitHub`
+
+## 🗄️ Backend & Data
+
+`Supabase` `PostgreSQL` `Firebase` `Vector Databases`  
+`Authentication` `Database Integration`
+
+## 🚀 What I Build
+
+- Custom AI agents connected to tools, APIs and business data
+- Voice AI agents for inbound and outbound calls
+- AI receptionists and appointment booking systems
+- RAG applications and private knowledge assistants
 - AI chatbots and conversational applications
-- Business process automation
-- AI-powered SaaS applications
-- API and third-party service integrations
-- Document processing and knowledge-base systems
-- Automated content and publishing workflows
+- AI-powered SaaS products
+- n8n and Make automation workflows
+- Document processing and data extraction systems
+- CRM, calendar, database and API integrations
+- AI features for existing web and mobile applications
 
----
+## 📚 Certifications
 
-## 🛠️ Tech Stack
-
-### AI & LLMs
-
-`OpenAI` `Claude` `Gemini` `RAG` `Embeddings` `Prompt Engineering`
-
-### Development
-
-`Python` `Node.js` `TypeScript` `Next.js` `REST APIs` `Webhooks`
-
-### Automation
-
-`n8n` `Make`
-
-### Data & Backend
-
-`Supabase` `PostgreSQL` `Vector Search`
-
-### Integrations
-
-`Meta WhatsApp API` `Stripe` `Google APIs`
-
----
-
-## 🚀 Selected Projects
-
-### 💬 AI WhatsApp Booking Agent
-
-Production AI booking assistant built for WhatsApp.
-
-The system understands customer requests, answers service questions, collects booking information, sends relevant images and generates payment links.
-
-**Tech:** Gemini · n8n · Meta WhatsApp API · Stripe · Google Sheets
-
----
-
-### 🧠 Healthcare RAG Assistant
-
-AI-powered healthcare knowledge assistant built around a large document knowledge base.
-
-The system processes patient information, retrieves relevant knowledge from thousands of pages of curated documents and generates contextual responses using RAG.
-
-**Tech:** Python · OpenAI GPT · OpenAI Embeddings · RAG
-
----
-
-### ⚡ AI Content Publishing Automation
-
-End-to-end automated content publishing system for a custom website.
-
-The workflow selects content from a publishing plan, generates structured articles with Claude, retrieves relevant imagery, converts the content for the web and publishes it through Supabase.
-
-**Tech:** n8n · Claude · Supabase · APIs · Automation
-
----
+- Model Context Protocol: Advanced Topics — Claude Academy
+- Introduction to Model Context Protocol — Claude Academy
+- Claude Code in Action — Claude Academy
+- Claude Code 101 — Claude Academy
+- Claude 101 — Claude Academy
+- Integrations: APIs & Connected Workflows — n8n Academy
 
 ## 🎯 Current Focus
 
-I'm currently focused on building production-ready AI systems that combine:
+I'm currently focused on building AI systems that go beyond simple chatbots by combining:
 
-`AI Agents` · `RAG` · `LLMs` · `Automation` · `APIs` · `SaaS`
+**AI Agents · Voice AI · RAG · Automation · LLMs · APIs · SaaS**
 
-I am particularly interested in systems where AI can interact with real business data, tools and workflows rather than operating as a standalone chatbot.
-
----
-
-## 📚 Certifications & Learning
-
-- Claude Academy
-- Model Context Protocol (MCP)
-- n8n Academy
-- AI Agents and connected workflows
-
----
+I enjoy building systems where AI can understand context, retrieve knowledge, use tools, interact with external services and automate real business processes.
 
 ## 📫 Connect
 
-I'm open to collaborating on AI agents, RAG applications, automation systems and AI-powered products.
-
-GitHub: @aqsa247-netizen
+I'm open to collaborating on AI agents, Voice AI, RAG applications, automation systems and AI-powered products.
